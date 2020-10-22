@@ -1,0 +1,1 @@
+janus-service-provider-3.0-im-SNAPSHOT.jar filter=lfs diff=lfs merge=lfs -text
